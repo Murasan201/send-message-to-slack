@@ -11,8 +11,8 @@ The program is implemented in the `slack-msg-test.py` script. It uses the [reque
 1. **Clone the Repository**
 
    ```bash
-git clone https://github.com/Murasan201/send-message-to-slack.git
-cd send-message-to-slack
+   git clone https://github.com/Murasan201/send-message-to-slack.git
+   cd send-message-to-slack
    ```
 
 2. **Install Dependencies**
